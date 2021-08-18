@@ -1,8 +1,8 @@
 # Mean-Median-Mode
- * *We read the data from the csv , sorted it and stored in the new_data list.
- * *We used **append()** to add values in existing data.
- * **len()** *shows the count or length of data.
- * **pop()** *removes the line. Example:If [0] is  given the the first line will be deleted.If its [1] then the second line will be deleted.
+* *We read the data from the csv , sorted it and stored in the new_data list.
+* *We used **append()** to add values in existing data.
+* **len()** *shows the count or length of data.
+* **pop()** *removes the line. Example:If [0] is  given the the first line will be deleted.If its [1] then the second line will be deleted.
  * *Using floor division to get the nearest number whole number.Floor division is shown by //.
  * *Counter() counts each value in the given one.
 
